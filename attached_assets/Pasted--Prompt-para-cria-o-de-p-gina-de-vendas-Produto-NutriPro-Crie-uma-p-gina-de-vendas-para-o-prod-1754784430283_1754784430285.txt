@@ -1,0 +1,61 @@
+1/ Prompt para criação de página de vendas - Produto NutriPro
+
+Crie uma página de vendas para o produto chamado **NutriPro**, que oferece um serviço personalizado de entrega de treino e planejamento alimentar baseado nos dados do usuário.
+
+**Paleta de cores:**
+- Verde escuro (#2F8F4E)
+- Verde claro (#A3D9A5)
+- Verde claríssimo (#DFF4DD)
+- Branco (#FFFFFF)
+
+**Estrutura da página:**
+
+1. **Cabeçalho (Header)**
+   - Logo NutriPro (pode ser texto simples)
+   - Navegação simples (opcional)
+
+2. **Seção principal com gancho**
+   - Título chamativo (exemplo: "Transforme seu corpo com o NutriPro!")
+   - Subtítulo curto explicando o serviço ("Treinos e planos alimentares feitos sob medida para você, com base no seu estilo de vida e preferências.")
+   - Botão “Garanta já o NutriPro” em destaque, na cor verde escuro, com texto branco.  
+     *Ao clicar, o botão deve abrir o WhatsApp no número +55 75 98705-3807 com uma mensagem padrão: "Olá, quero garantir o NutriPro!"*
+
+3. **Espaço para VSL**
+   - Espaço para incorporar vídeo de vendas (video placeholder)
+
+4. **Seção de benefícios**
+   - Título: "Por que escolher o NutriPro?"
+   - Lista dos benefícios do serviço, por exemplo:
+     - Plano alimentar personalizado com base em suas preferências.
+     - Treinos adaptados ao seu nível (iniciante, intermediário ou avançado).
+     - Acompanhamento contínuo para garantir resultados reais.
+     - Flexibilidade para incluir/excluir alimentos que você gosta ou não.
+     - Suporte direto via WhatsApp para tirar dúvidas.
+
+5. **Seção “O que é o NutriPro?”**
+   - Texto explicativo detalhado, exemplo:
+     "O NutriPro é um serviço exclusivo que cria planos de treino e alimentação personalizados para você. Basta informar seu nome, idade, altura, peso, gostos alimentares e nível de treino, e nós entregamos um plano adaptado às suas necessidades e preferências. Não importa se você está começando ou é um atleta avançado, o NutriPro vai te ajudar a alcançar seus objetivos de forma prática e eficiente."
+
+6. **Seção de depoimentos**
+   - Pelo menos 3 depoimentos de clientes satisfeitos (texto fictício serve, exemplo):
+     - "O NutriPro mudou minha vida! Finalmente consegui me organizar e os resultados vieram rápido." – João S.
+     - "Treinos e dieta do NutriPro são super fáceis de seguir e se encaixam na minha rotina." – Ana M.
+     - "O suporte via WhatsApp é incrível, sempre respondem minhas dúvidas." – Carlos P.
+
+7. **Chamada final para ação (CTA)**
+   - Texto grande: “Garanta já o NutriPro”
+   - Botão grande com o mesmo estilo do botão do início, que ao clicar, abre o WhatsApp para o número +55 75 98705-3807 com a mensagem: "Olá, quero garantir o NutriPro!"
+
+8. **Formulário de coleta de dados (opcional para o momento)**
+   - Campos: Nome, Idade, Altura, Peso, Alimentos que gosta, Alimentos que não gosta, Nível de treino (iniciante, intermediário, avançado).
+   - Botão de envio com texto: "Receber meu plano personalizado".
+
+**Interatividade do botão “Garanta já o NutriPro”:**
+- Ao clicar, abrir o link:
+`https://wa.me/5575987053807?text=Ol%C3%A1%2C%20quero%20garantir%20o%20NutriPro%21`
+
+**Design geral:**
+- Layout limpo e moderno.
+- Usar a paleta de cores para destacar títulos, botões e seções.
+- Texto em branco sobre fundos verdes escuros, e texto verde escuro sobre fundos claros ou brancos.
+- Espaços generosos para deixar a página “arejada” e fácil de ler.
